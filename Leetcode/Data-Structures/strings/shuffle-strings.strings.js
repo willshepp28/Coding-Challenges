@@ -29,13 +29,14 @@ var restoreString = function(s, indices) {
 };
 
 
-restoreString("codeleet", [4,5,6,7,0,2,1,3])
-restoreString("abc", [0,1,2])
-restoreString("aiohn", [3,1,4,2,0])
-restoreString("aaiougrt", [4,0,2,6,7,3,1,5])
+// restoreString("codeleet", [4,5,6,7,0,2,1,3])
+// restoreString("abc", [0,1,2])
+// restoreString("aiohn", [3,1,4,2,0])
+// restoreString("aaiougrt", [4,0,2,6,7,3,1,5])
 
 
 /**
  * Runtime: 96 ms, faster than 33.74% of JavaScript online submissions for Shuffle String.
 Memory Usage: 40.5 MB, less than 34.70% of JavaScript online submissions for Shuffle String.
  */
+
